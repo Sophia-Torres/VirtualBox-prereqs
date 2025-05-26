@@ -12,17 +12,16 @@ This tutorial outlines the prerequisites and installation of Oracle VirtualBox.<
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
-- Windows Server 2019</b> (21H2)
+- Mac OS Ventura
 
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- A supported host OS
+- A 64 bit processor with hardware virtualization support
+- Minumum 4GB RAM (8GB Recommended)
+- Storage of at least 30-50 GB free space
+- Admin Rights
 
 <h2>Installation Steps</h2>
 
