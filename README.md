@@ -2,23 +2,19 @@
 ![image](https://github.com/user-attachments/assets/d341aa27-38e2-4010-a238-9fbbd122516b)
 
 
-<h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- Oracle VirtualBox (Virtual Machines/Compute)
+- Oracle VirtualBox Extension Pack
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Windows Server 2019</b> (21H2)
+
 
 <h2>List of Prerequisites</h2>
 
