@@ -2,12 +2,12 @@
 ![image](https://github.com/user-attachments/assets/d341aa27-38e2-4010-a238-9fbbd122516b)
 
 
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation of Oracle VirtualBox.<br />
 
 
 <h2>Environments and Technologies Used</h2>
 
-- Oracle VirtualBox (Virtual Machines/Compute)
+- Oracle VirtualBox (Virtual Machines)
 - Oracle VirtualBox Extension Pack
 
 <h2>Operating Systems Used </h2>
