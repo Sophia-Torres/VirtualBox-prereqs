@@ -30,13 +30,12 @@ This tutorial outlines the prerequisites and installation of Oracle VirtualBox.<
 ![image](https://github.com/user-attachments/assets/509acce0-a3ae-4f8f-b51e-b21f5dfec0a8)
 
 
-<p>
 - Download and install the appropriate VirtualBox package for your host OS
 - Next download the VirtualBox expansion pack
 - Open VirtualBox and select the Expert mode for setup
-  ![image](https://github.com/user-attachments/assets/5d4dbc38-6b84-474f-8683-0f55b498d1c8)
 
-</p>
+![image](https://github.com/user-attachments/assets/5d4dbc38-6b84-474f-8683-0f55b498d1c8)
+
 <br />
 
 <p>
