@@ -40,6 +40,10 @@ This tutorial outlines the prerequisites and installation of Oracle VirtualBox.<
 
 ![image](https://github.com/user-attachments/assets/2b936038-b836-4273-a26e-53952a38f1c1)
 
+- Register first to obtain free trial of Windows Server 2019
+
+![image](https://github.com/user-attachments/assets/e1490645-9839-4dd0-a529-cfba80ee8e0e)
+
 - Download Windows Server 2019 ISO
 
 ![image](https://github.com/user-attachments/assets/7a9cdb63-d993-40d8-9cb6-2c8a913ef5f1)
