@@ -36,6 +36,14 @@ This tutorial outlines the prerequisites and installation of Oracle VirtualBox.<
 
 ![image](https://github.com/user-attachments/assets/5d4dbc38-6b84-474f-8683-0f55b498d1c8)
 
+- Download Windows 10 ISO
+
+![image](https://github.com/user-attachments/assets/2b936038-b836-4273-a26e-53952a38f1c1)
+
+- Download Windows Server 2019 ISO
+
+![image](https://github.com/user-attachments/assets/7a9cdb63-d993-40d8-9cb6-2c8a913ef5f1)
+
 <br />
 
 <p>
