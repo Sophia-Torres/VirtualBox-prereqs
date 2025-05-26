@@ -26,6 +26,8 @@ This tutorial outlines the prerequisites and installation of Oracle VirtualBox.<
 <h2>Installation Steps</h2>
 
 <p>
+  ![image](https://github.com/user-attachments/assets/509acce0-a3ae-4f8f-b51e-b21f5dfec0a8)
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
