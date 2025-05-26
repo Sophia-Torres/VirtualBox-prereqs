@@ -1,4 +1,4 @@
-# VirtualBox - Prerequisites and Installation
+# VirtualBox (Active Directory Lab) - Prerequisites and Installation
 ![image](https://github.com/user-attachments/assets/d341aa27-38e2-4010-a238-9fbbd122516b)
 
 
@@ -13,14 +13,16 @@ This tutorial outlines the prerequisites and installation of Oracle VirtualBox.<
 <h2>Operating Systems Used </h2>
 
 - Mac OS Ventura
+- Windows 10 ISO
+- Windows Server 2019 ISO
 
 
 <h2>List of Prerequisites</h2>
 
-- A supported host OS
+- A supported host OS for Oracle Virtual Box
 - A 64 bit processor with hardware virtualization support
-- Minumum 4GB RAM (at least 8GB Recommended)
-- Storage of at least 40-60 GB free space
+- Minumum 4GB RAM (8GB Recommended)
+- Storage of at least 30-50 GB free space
 - Admin Rights
 
 <h2>Installation Steps</h2>
