@@ -1,4 +1,6 @@
 # VirtualBox-prereqs
+![image](https://github.com/user-attachments/assets/d341aa27-38e2-4010-a238-9fbbd122516b)
+
 <p align="center">
 <img src="https://i.imgur.com/a/7DMyeNz" alt="osTicket logo"/>
 </p>
