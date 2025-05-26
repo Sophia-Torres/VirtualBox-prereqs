@@ -21,8 +21,8 @@ This tutorial outlines the prerequisites and installation of Oracle VirtualBox.<
 
 - A supported host OS for Oracle Virtual Box
 - A 64 bit processor with hardware virtualization support
-- Minumum 4GB RAM (8GB Recommended)
-- Storage of at least 30-50 GB free space
+- Minumum 4GB RAM (at least 8GB Recommended)
+- Storage of at least 40-60 GB free space
 - Admin Rights
 
 <h2>Installation Steps</h2>
@@ -31,7 +31,11 @@ This tutorial outlines the prerequisites and installation of Oracle VirtualBox.<
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Download and install the appropriate VirtualBox package for your host OS
+- Next download the VirtualBox expansion pack
+- Open VirtualBox and select the Expert mode for setup
+  ![image](https://github.com/user-attachments/assets/5d4dbc38-6b84-474f-8683-0f55b498d1c8)
+
 </p>
 <br />
 
