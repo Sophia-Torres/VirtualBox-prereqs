@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of Oracle VirtualBox.<
 <h2>Environments and Technologies Used</h2>
 
 - Oracle VirtualBox (Virtual Machines)
-- Oracle VirtualBox Extension Pack
+- Oracle VirtualBox Extension Pack (Adds advance features to base installation ex. Remote Desktop, Virtual Networking, and access to USB 2.0/3.0 devices)
 
 <h2>Operating Systems Used </h2>
 
