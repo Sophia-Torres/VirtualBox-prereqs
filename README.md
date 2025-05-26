@@ -1,6 +1,6 @@
 # VirtualBox-prereqs
 <p align="center">
-<img src="https://i.imgur.com/a/7DMyeNz.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/a/7DMyeNz" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
